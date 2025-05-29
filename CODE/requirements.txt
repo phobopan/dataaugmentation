@@ -1,0 +1,10 @@
+flask
+werkzeug
+flask-cors
+pandas
+numpy
+scikit-learn
+torch
+matplotlib
+seaborn
+xgboost
