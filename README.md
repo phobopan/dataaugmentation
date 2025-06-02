@@ -1,7 +1,5 @@
 # dataaugmentation
 
-GPU: 2 Nvidia RTX A6000
-
 This project explores the use of transformer-based architectures for forecasting PM2.5 concentrations in major urban areas. It aims to improve air quality prediction by applying data augmentation techniques and evaluating their effect on high-value pollution events. The work builds on satellite and meteorological data and incorporates machine learning to provide more accurate and actionable forecasts.
 
 # features
@@ -18,7 +16,7 @@ Cross-validation and bias analysis
 
 Visualization of predicted vs. actual PM2.5 levels
 
-# Dependencies
+# dependencies
 
 Python 3.8+
 
@@ -34,7 +32,11 @@ matplotlib
 
 seaborn
 
-# Limitations
+# how to run
+
+GPU: 2 Nvidia RTX A6000
+
+# limitations
 
 Currently limited to NYC, Philadelphia, and Washington D.C.
 
